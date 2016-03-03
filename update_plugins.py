@@ -51,6 +51,10 @@ vim-go https://github.com/fatih/vim-go
 vim-gitgutter https://github.com/airblade/vim-gitgutter
 gruvbox https://github.com/morhetz/gruvbox
 vim-flake8 https://github.com/nvie/vim-flake8
+nerdtree-git-plugin https://github.com/Xuyuanp/nerdtree-git-plugin
+vim-jsx https://github.com/mxw/vim-jsx.git
+yajs.vim https://github.com/othree/yajs.vim.git
+javascript=libraries-syntax.vim https://github.com/othree/javascript-libraries-syntax.vim.git
 vim-pug https://github.com/digitaltoad/vim-pug
 """.strip()
 
